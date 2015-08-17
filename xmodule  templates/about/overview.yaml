@@ -1,3 +1,4 @@
+---
 metadata:
     display_name: overview
 
@@ -12,7 +13,7 @@ data: |
     <section class="prerequisites">
       <h2>Входные требования</h2>
       <p>Добавьте информацию о навыках и знаниях студента, необходимых для прохождения данного курса.
-	</section>
+    </section>
     <section class="course-staff">
       <h2>Команда курса</h2>
       <article class="teacher">
@@ -26,7 +27,7 @@ data: |
 
       <article class="teacher">
         <div class="teacher-image">
-          <img src="/static/images/placeholder-faculty.png" align="left" style="margin:0 20 px 0" alt="Course Staff Image #2">
+          <img src="/static/images/placeholder-faculty.png" align="left" style="margin:0 20 px 0" alt="Портрет преподавателя #2">
         </div>
 
         <h3>Персона #2</h3>
