@@ -31,7 +31,7 @@ data: |
       <multiplechoiceresponse>
        <choicegroup type="MultipleChoice">
           <choice correct="false" name="brazil">Бразилия
-           <choicehint>подсказка: объясните, почему ответ неверен</choicehint>
+           <choicehint>подсказка - объясните, почему ответ неверен</choicehint>
           </choice>
           <choice correct="false" name="germany">Германия</choice>
           <choice correct="true" name="indonesia">Индонезия</choice>
@@ -41,11 +41,11 @@ data: |
     <solution>
       <div class="detailed-solution">
         <p>Объяснение</p>
-        <p>По состоянию на сентябрь 2014 г., численность населения составляет:</p>
-        <p>В Индонезии: 250 млн человек.</p>
-        <p>В Бразилии: 200 млн человек.</p>
-        <p>В Германии: 81 млн человек.</p>
-        <p>В России: 146 млн человек.</p>
+        <p>По состоянию на сентябрь 2014 г., численность населения составляет</p>
+        <p>В Индонезии - 250 млн человек.</p>
+        <p>В Бразилии - 200 млн человек.</p>
+        <p>В Германии - 81 млн человек.</p>
+        <p>В России - 146 млн человек.</p>
       </div>
     </solution>
     </problem>
