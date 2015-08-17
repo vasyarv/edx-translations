@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fbe5373-045a-42b8-ae43-a83edaa1cc9e" name="Default" comment="" />
+    <list default="true" id="9fbe5373-045a-42b8-ae43-a83edaa1cc9e" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\PATH to original_.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\about\overview.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\announcement.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\anon_user_id.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\iframe.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\image_modal.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\latex_html.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\raw.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\html\zooming_image.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\blank_common.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\checkboxes_response.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\checkboxes_response_hint.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\circuitschematic.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\customgrader.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\drag_and_drop.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\formularesponse.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\imageresponse.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\jsinput_response.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\latex_problem.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\multiplechoice.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\multiplechoice_hint.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\numericalresponse.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\numericalresponse_hint.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\optionresponse.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\optionresponse_hint.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\problem_with_hint.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\problem_with_hint_in_latex.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\string_response.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nosenat\Documents\work_Kupriyanov\MOOC\edx-translations\xmodule  templates\problem\string_response_hint.yaml" afterPath="" />
+    </list>
     <ignored path="edx-translations.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
