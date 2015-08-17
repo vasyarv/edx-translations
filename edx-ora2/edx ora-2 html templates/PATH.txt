@@ -1,0 +1,1 @@
+https://github.com/edx/edx-ora2/tree/master/openassessment/templates/openassessmentblock
