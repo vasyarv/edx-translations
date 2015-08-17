@@ -23,7 +23,7 @@ data: |
       ans = str(student_answers[aid]).lower()
       print 'hint_fn called, ans=', ans
       hint = ''
- if 'java' in ans:
+      if 'java' in ans:
           hint = 'пригодно только для питья'
           elif 'perl' in ans:
              hint = 'не очень богат'
